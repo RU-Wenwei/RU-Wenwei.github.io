@@ -15,14 +15,14 @@ website: www.github.com/no
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: lalala
+github_username:  RU-Wenwei
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: dongww_
+linkedin_username: Wenwei Dong
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Wenwei and I'm a PhD candidate in Radboud University Nijmegen. My research interests are Computer-Assisted Language Learning, more specificly Pronunciation Error Detection and L2 Speech Assessment both on segmental and Suprasegmental level. Feel free to contact me.
+  Hi, my name is Wenwei and I'm a PhD candidate in Radboud University Nijmegen. My research interests are Computer-Assisted Language Learning, more specificly, Pronunciation Error Detection and L2 Speech Assessment both on segmental and suprasegmental level. Feel free to contact me if you are interested in my research or me.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
