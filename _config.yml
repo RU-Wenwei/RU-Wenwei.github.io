@@ -9,7 +9,7 @@ version: 2
 name: Wenwei Dong
 title: PhD candidate
 email: wenwei.dong@ru.nl
-website: www.github.com/sproogen/resume-theme
+website: www.github.com/no
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Wenwei and I'm a PhD candidate in Radboud University Nijmegen. My research interests are Computer-Assisted Language Learning, more specificly Pronunciation Error Detection and L2 Speech Assessment both on segmental and Suprasegmental level. Feel free to contact me.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
