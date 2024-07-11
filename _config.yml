@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Wenwei and I'm a PhD candidate at Radboud University Nijmegen. My research interests are Computer-Assisted Language Learning, more specifically, Pronunciation Error Detection and L2 Speech Assessment both on segmental and suprasegmental level. Feel free to contact me if you are interested in my research or me.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Computitional linguistics</mark> and <mark>Eating spicy food</mark>
 
 content:
   - title: Education # Title for the section
@@ -59,7 +59,7 @@ content:
       - layout: left
         title: Radboud University
         caption: 2021 - now
-        sub_title: PhD Applied Linguistics
+        sub_title: PhD in Applied Linguistics
         quote: >
           Established in 1923, the Radboud Universiteit (Radboud University) is a non-profit private higher  education institution located in the urban setting of the small city of Nijmegen (population range of 50,000-249,999 inhabitants), Gelderland. Officially recognized by the Ministerie van Onderwijs, Cultuur en  Wetenschap, Nederland (Ministry of  Education, Culture and  Science of the Netherlands), Radboud Universiteit (RU) is a large-sized (uniRank enrollment range: 15,000-19,999 students) coeducational Dutch higher  education institution formally affiliated with the Christian-Catholic religion. Radboud Universiteit (RU) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees and master's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 100-year-old Dutch higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. International applicants are eligible to apply for enrollment. RU also provides several academic and non-academic facilities and services to students including a library, housing, sports facilities, financial aids and/or scholarships, study abroad and exchange programs, as well as administrative services.
         description: | # this will include new lines to allow paragraphs
@@ -69,13 +69,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Coding
+      - Badminton
+      - Strength Training
+      - Photography
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
