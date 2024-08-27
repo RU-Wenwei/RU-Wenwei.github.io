@@ -51,6 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Wenwei and I'm a PhD candidate at Radboud University Nijmegen. My research interests are Computer-Assisted Language Learning, more specifically, Pronunciation Error Detection and L2 Speech Assessment both on segmental and suprasegmental level. Feel free to contact me if you are interested in my research or me.
 
   I am most skilled in: <mark>Computitional linguistics</mark> and <mark>Eating spicy food</mark>
+  Languages: Chinese, English, a bit Dutch
 
 content:
   - title: Education # Title for the section
